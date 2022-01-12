@@ -9,7 +9,6 @@ import {
 } from '../interfaces/interfaces';
 
 import styles from '../styles/styles.module.css';
-
 import { useProduct } from '../hooks/useProduct';
 import { InitialValues } from '../interfaces/interfaces';
 
